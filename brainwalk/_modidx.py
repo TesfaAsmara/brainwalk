@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://TesfaAsmara.github.io',
                 'git_url': 'https://github.com/TesfaAsmara/brainwalk',
                 'lib_path': 'brainwalk'},
-  'syms': {'brainwalk.core': {'brainwalk.core.foo': ('core.html#foo', 'brainwalk/core.py')}}}
+  'syms': {'brainwalk.core': {'brainwalk.core.brainwave': ('core.html#brainwave', 'brainwalk/core.py')}}}
