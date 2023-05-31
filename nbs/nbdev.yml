@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "brainwalk"
+  site-url: "https://TesfaAsmara.github.io/brainwalk"
+  description: "Spatial graph embeddings for ObsidianMD"
+  repo-branch: main
+  repo-url: "https://github.com/TesfaAsmara/brainwalk"
